@@ -1,3 +1,27 @@
 # ninja log v5
 1	478	7180437199401882	CMakeFiles/couriers.dir/main.cpp.obj	e1ffdc321fdf6d6
 480	779	7180437202381017	couriers.exe	9a6f40fca007e509
+5	308	7180444766020693	CMakeFiles/couriers.dir/main.cpp.obj	2f97f162ca3e2499
+39	1590	7180444778938113	external/glfw/src/CMakeFiles/glfw.dir/platform.c.obj	6617f99930f1dbcd
+41	1594	7180444778888112	external/glfw/src/CMakeFiles/glfw.dir/vulkan.c.obj	bd7ad697252e60f7
+46	1639	7180444779428112	external/glfw/src/CMakeFiles/glfw.dir/null_init.c.obj	2be9b804de32c003
+29	1730	7180444779868922	external/glfw/src/CMakeFiles/glfw.dir/context.c.obj	68109f581560793f
+37	1791	7180444780899772	external/glfw/src/CMakeFiles/glfw.dir/window.c.obj	cafb8e97133ff47
+17	1804	7180444780939769	external/glfw/src/CMakeFiles/glfw.dir/init.c.obj	35b6a5a4ce8e5d93
+308	1807	7180444781059768	external/glfw/src/CMakeFiles/glfw.dir/osmesa_context.c.obj	d70f2af8b28b8812
+33	1844	7180444781409779	external/glfw/src/CMakeFiles/glfw.dir/monitor.c.obj	42803af79979296
+31	1933	7180444782349785	external/glfw/src/CMakeFiles/glfw.dir/input.c.obj	2bea5e2913d00d8d
+44	1951	7180444782489770	external/glfw/src/CMakeFiles/glfw.dir/egl_context.c.obj	25e0f149ca0a558e
+1591	2935	7180444792047690	external/glfw/src/CMakeFiles/glfw.dir/null_joystick.c.obj	529f6fe9c87ba87e
+1595	3054	7180444793508449	external/glfw/src/CMakeFiles/glfw.dir/null_window.c.obj	d65584729824cf1c
+1731	3116	7180444794168449	external/glfw/src/CMakeFiles/glfw.dir/win32_module.c.obj	237f393558bc2e16
+1639	3128	7180444794308450	external/glfw/src/CMakeFiles/glfw.dir/null_monitor.c.obj	89f44518896d30c4
+1792	3151	7180444794548454	external/glfw/src/CMakeFiles/glfw.dir/win32_time.c.obj	da0aca20f8b78757
+1804	3180	7180444794838451	external/glfw/src/CMakeFiles/glfw.dir/win32_thread.c.obj	a2bff65b9c75c6d1
+1951	3242	7180444795430135	external/glfw/src/CMakeFiles/glfw.dir/win32_joystick.c.obj	ec38506278e06a00
+1807	3285	7180444795880144	external/glfw/src/CMakeFiles/glfw.dir/win32_init.c.obj	c5f2d10a05ff442d
+1844	3304	7180444796070135	external/glfw/src/CMakeFiles/glfw.dir/win32_window.c.obj	f0fe38b41c0f6da4
+1933	3358	7180444796630779	external/glfw/src/CMakeFiles/glfw.dir/win32_monitor.c.obj	66dec15d7b9fa86e
+2936	4127	7180444804307849	external/glfw/src/CMakeFiles/glfw.dir/wgl_context.c.obj	7b957b31c10fb455
+4127	4312	7180444806177849	external/glfw/src/libglfw3.a	33d224719fc8d312
+4312	4541	7180444808397858	couriers.exe	3d98743c5006913c

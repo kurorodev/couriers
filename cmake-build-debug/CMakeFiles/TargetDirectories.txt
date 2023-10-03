@@ -1,3 +1,9 @@
 C:/Users/danyadevpc/Desktop/couriers/cmake-build-debug/CMakeFiles/couriers.dir
 C:/Users/danyadevpc/Desktop/couriers/cmake-build-debug/CMakeFiles/edit_cache.dir
 C:/Users/danyadevpc/Desktop/couriers/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/danyadevpc/Desktop/couriers/cmake-build-debug/external/glfw/CMakeFiles/edit_cache.dir
+C:/Users/danyadevpc/Desktop/couriers/cmake-build-debug/external/glfw/CMakeFiles/rebuild_cache.dir
+C:/Users/danyadevpc/Desktop/couriers/cmake-build-debug/external/glfw/src/CMakeFiles/glfw.dir
+C:/Users/danyadevpc/Desktop/couriers/cmake-build-debug/external/glfw/src/CMakeFiles/update_mappings.dir
+C:/Users/danyadevpc/Desktop/couriers/cmake-build-debug/external/glfw/src/CMakeFiles/edit_cache.dir
+C:/Users/danyadevpc/Desktop/couriers/cmake-build-debug/external/glfw/src/CMakeFiles/rebuild_cache.dir
